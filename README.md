@@ -7,3 +7,7 @@ location
 meal type
 activity
 budget
+
+
+web apis:
+- jsoup (example: https://www.journaldev.com/7207/google-search-from-java-program-example)
